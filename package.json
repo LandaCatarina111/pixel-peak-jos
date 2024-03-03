@@ -1,0 +1,26 @@
+{
+  "name": "pixel-peak-jos",
+  "description": "pixel-peak-jos",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/LandaCatarina111",
+  "repository": {
+    "url": "https://github.com/LandaCatarina111/pixel-peak-jos"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "pixel",
+    "peak",
+    "project"
+  ],
+  "author": "LandaCatarina111",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
